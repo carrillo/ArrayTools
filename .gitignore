@@ -1,0 +1,7 @@
+bin/
+output/
+resources/
+.DS_Store
+.classpath
+.project
+.settings
